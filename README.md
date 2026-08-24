@@ -1,11 +1,13 @@
-[prize-bond-number-checker-guide.html](https://github.com/user-attachments/files/31363034/prize-bond-number-checker-guide.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
   <meta name="description" content="Learn how to check a prize bond number in Pakistan in 2026 using the relevant draw result and official information.">
+
   <title>How to Check a Prize Bond Number in Pakistan (2026)</title>
+
   <style>
     :root {
       --primary: #0f766e;
@@ -18,7 +20,9 @@
       --note: #ecfdf5;
     }
 
-    * { box-sizing: border-box; }
+    * {
+      box-sizing: border-box;
+    }
 
     body {
       margin: 0;
@@ -53,16 +57,31 @@
       font-size: 25px;
     }
 
-    h3 {
-      margin-top: 28px;
-      color: var(--primary);
+    p {
+      margin: 14px 0;
     }
-
-    p { margin: 14px 0; }
 
     .intro {
       font-size: 18px;
       color: #374151;
+    }
+
+    .website-box {
+      background: #f0fdfa;
+      border: 1px solid #ccfbf1;
+      padding: 16px 20px;
+      margin: 20px 0 28px;
+      border-radius: 10px;
+    }
+
+    .website-box a {
+      color: var(--primary-dark);
+      font-weight: bold;
+      text-decoration: none;
+    }
+
+    .website-box a:hover {
+      text-decoration: underline;
     }
 
     .step {
@@ -93,11 +112,14 @@
       margin: 24px 0;
     }
 
-    ul, ol {
+    ul,
+    ol {
       padding-left: 24px;
     }
 
-    strong { color: #111827; }
+    strong {
+      color: #111827;
+    }
 
     footer {
       margin-top: 32px;
@@ -107,15 +129,35 @@
       font-size: 14px;
     }
 
+    footer a {
+      color: var(--primary-dark);
+      font-weight: bold;
+      text-decoration: none;
+    }
+
+    footer a:hover {
+      text-decoration: underline;
+    }
+
     @media (max-width: 600px) {
-      .container { width: min(100% - 20px, 900px); margin: 20px auto; }
-      article { padding: 24px 18px; }
+      .container {
+        width: min(100% - 20px, 900px);
+        margin: 20px auto;
+      }
+
+      article {
+        padding: 24px 18px;
+      }
     }
   </style>
 </head>
+
 <body>
+
   <main class="container">
+
     <article>
+
       <h1>How to Check a Prize Bond Number in Pakistan (2026)</h1>
 
       <p class="intro">
@@ -124,86 +166,152 @@
         number and the relevant draw result.
       </p>
 
+      <!-- Website Link -->
+      <div class="website-box">
+        For more information about the
+        <strong>Prize Bond Schedule 2026</strong>, visit
+        <a href="https://prizebond2026.pk/"
+           target="_blank"
+           rel="noopener noreferrer">
+          PrizeBond2026.pk
+        </a>.
+      </div>
+
       <section class="step">
+
         <h2>Step 1: Find Your Bond Number</h2>
+
         <p>
-          Locate the prize bond and note the complete number printed on it. Enter the
-          number carefully because even one incorrect digit can produce the wrong result.
+          Locate the prize bond and note the complete number printed on it.
+          Enter the number carefully because even one incorrect digit can
+          produce the wrong result.
         </p>
+
       </section>
 
       <section class="step">
+
         <h2>Step 2: Identify the Bond Denomination</h2>
+
         <p>
-          Make sure you know which prize bond denomination you are checking, such as
-          Rs. 100, Rs. 200, Rs. 750, or Rs. 1,500. Draw results are organized according
-          to denomination.
+          Make sure you know which prize bond denomination you are checking,
+          such as Rs. 100, Rs. 200, Rs. 750, or Rs. 1,500.
+          Draw results are organized according to denomination.
         </p>
+
       </section>
 
       <section class="step">
+
         <h2>Step 3: Select the Relevant Draw</h2>
+
         <p>
-          Check the draw date and draw number you want to verify. Using the correct draw
-          is important because each draw has its own list of winning numbers.
+          Check the draw date and draw number you want to verify.
+          Using the correct draw is important because each draw has
+          its own list of winning numbers.
         </p>
+
       </section>
 
       <section class="step">
+
         <h2>Step 4: Search the Published Result</h2>
+
         <p>
-          Open the relevant official or reliable prize-bond result list and search for
-          your complete bond number. On a computer, you can usually use
-          <strong>Ctrl + F</strong> to search the page or document.
+          Open the relevant official or reliable prize-bond result list
+          and search for your complete bond number. On a computer, you
+          can usually use <strong>Ctrl + F</strong> to search the page
+          or document.
         </p>
+
         <p>
-          For a large list of numbers, a dedicated prize bond checker can also make
-          the process faster.
+          For a large list of numbers, a dedicated prize bond checker
+          can also make the process faster.
         </p>
+
+        <p>
+          You can also explore
+          <a href="https://prizebond2026.pk/"
+             target="_blank"
+             rel="noopener noreferrer">
+            PrizeBond2026.pk
+          </a>
+          for prize bond schedule and related informational content.
+        </p>
+
       </section>
 
       <section class="step">
+
         <h2>Step 5: Compare the Number Carefully</h2>
+
         <p>
-          If your exact bond number appears in the result, check which prize category
-          it belongs to. Do not rely only on a partial number because similar numbers
-          can appear in the same result.
+          If your exact bond number appears in the result, check which
+          prize category it belongs to. Do not rely only on a partial
+          number because similar numbers can appear in the same result.
         </p>
+
       </section>
 
       <section class="step">
+
         <h2>Step 6: Verify the Result</h2>
+
         <p>
-          Before taking any further action, verify the result against an official source
-          or the published draw list. This helps avoid mistakes caused by outdated or
-          incorrect third-party information.
+          Before taking any further action, verify the result against
+          an official source or the published draw list. This helps
+          avoid mistakes caused by outdated or incorrect third-party
+          information.
         </p>
+
       </section>
 
       <h2>Example</h2>
+
       <div class="example">
+
         <p>
-          Suppose your bond number is <strong>123456</strong>. You select the correct
-          denomination and draw, then search the published winning-number list for
+          Suppose your bond number is <strong>123456</strong>.
+          You select the correct denomination and draw, then search
+          the published winning-number list for
           <strong>123456</strong>.
         </p>
+
         <ul>
-          <li>If the exact number appears, it should be checked against the listed prize category.</li>
-          <li>If it does not appear, that number was not listed as a winner in that particular draw.</li>
+          <li>
+            If the exact number appears, it should be checked against
+            the listed prize category.
+          </li>
+
+          <li>
+            If it does not appear, that number was not listed as a
+            winner in that particular draw.
+          </li>
         </ul>
+
       </div>
 
       <h2>Quick Tip</h2>
+
       <div class="tip">
+
         <p>
-          Always check the <strong>bond denomination, draw number, draw date, and
-          complete bond number</strong> together. This is the easiest way to reduce
-          checking errors.
+          Always check the
+          <strong>
+            bond denomination, draw number, draw date, and complete
+            bond number
+          </strong>
+          together. This is the easiest way to reduce checking errors.
         </p>
+
       </div>
 
       <h2>Summary</h2>
-      <p>Checking a prize bond number mainly involves:</p>
+
+      <p>
+        Checking a prize bond number mainly involves:
+      </p>
+
       <ol>
         <li>Finding the complete bond number.</li>
         <li>Identifying its denomination.</li>
@@ -214,10 +322,27 @@
       </ol>
 
       <footer>
-        For current results, use the latest officially published draw information rather
-        than relying on an old result page.
+
+        <p>
+          For current results, use the latest officially published
+          draw information rather than relying on an old result page.
+        </p>
+
+        <p>
+          Visit
+          <a href="https://prizebond2026.pk/"
+             target="_blank"
+             rel="noopener noreferrer">
+            PrizeBond2026.pk
+          </a>
+          for more prize bond information.
+        </p>
+
       </footer>
+
     </article>
+
   </main>
+
 </body>
 </html>
